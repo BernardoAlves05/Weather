@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: a889911
+Build-Jdk: 17.0.4.1
+Implementation-Title: SpringBootHelloApp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.skillsoft.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootHell
+ oApp/
+Created-By: Maven Integration for Eclipse
+
